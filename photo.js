@@ -30,3 +30,4 @@ console.log(photo1.toString());
 
 let photo2 = new Photo(10,30);
 console.log(photo2.toString());
+
